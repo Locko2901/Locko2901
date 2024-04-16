@@ -3,7 +3,7 @@
 <a href="https://github.com/locko2901/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-lockoos-projects.vercel.app/api?username=locko2901&rank_icon=github&show_icons=true&include_all_commits=true&hide=prs,contribs&theme=dracula" />
 </a>
-<a href="https://github.com/locko2901/convoychat">
+<a href="https://github.com/locko2901">
   <img height=200 align="center" src="https://github-readme-stats-lockoos-projects.vercel.app/api/top-langs?username=locko2901&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
