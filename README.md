@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Lockoo  
-I do cool stuff at times.
+#### I do cool stuff at times.
+
+---
 
 <!-- GitHub Stats -->
 <!--
