@@ -38,7 +38,3 @@ Here are the ones I’ve made public:
 - 🧠 I love experimenting with **APIs** and **data-driven projects**, often turning them into small desktop apps or scripts
 - ⚙️ I tinker with **DevOps, system administration, and homelabs**, from Raspberry Pis to fully clustered server setups  
 - 💻 Most of what I create starts as an idea to make my own life easier
-
----
-
-*“If it doesn’t exist, make it.”*
