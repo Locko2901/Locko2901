@@ -29,8 +29,8 @@ Here are the ones I’ve made public:
 <a href="https://github.com/locko2901/Celebrator">
   <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=Celebrator&theme=dracula" />
 </a>
-<a href="https://github.com/locko2901/static-lockoo.dev">
-  <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=static-lockoo.dev&theme=dracula" />
+<a href="https://github.com/locko2901/site-net">
+  <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=site-net&theme=dracula" />
 </a>
 
 ---
