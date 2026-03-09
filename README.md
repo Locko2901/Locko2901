@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Lockoo  
+## Hi, I'm Lockoo  
 #### I do cool stuff at times.
 
 ---
@@ -15,10 +15,10 @@
 
 ---
 
-### 🔧 Projects I’ve Built
+### Projects
 
 Most of my repositories started as personal tools - something I wanted to automate, fix, or just make work *better*.  
-Here are the ones I’ve made public:
+Here are the ones I've made public:
 
 <a href="https://github.com/locko2901/lastfm-to-ytm">
   <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=lastfm-to-ytm&theme=dracula" />
@@ -29,15 +29,11 @@ Here are the ones I’ve made public:
 <a href="https://github.com/locko2901/Celebrator">
   <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=Celebrator&theme=dracula" />
 </a>
-<a href="https://github.com/locko2901/lockoo.net">
-  <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=lockoo.net&theme=dracula" />
-</a>
 
 ---
 
-### 💬 About Me
+## About
 
-- 🎧 I build **tools and automations for music platforms**, especially YouTube Music
-- 🧠 I love experimenting with **APIs** and **data-driven projects**, often turning them into small desktop apps or scripts
-- ⚙️ I tinker with **DevOps, system administration, and homelabs**, from Raspberry Pis to fully clustered server setups  
-- 💻 Most of what I create starts as an idea to make my own life easier
+- I build **tools, automations, and small technical experiments**, often around APIs or online platforms
+- I work with **DevOps, system administration, and homelab infrastructure**, from Raspberry Pis to clustered server setups
+- Most of my projects start as small tools to **automate something or make my life a bit easier**
