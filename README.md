@@ -10,7 +10,7 @@
 </a>
 -->
 <a href="https://github.com/locko2901">
-  <img height=200 align="center" src="https://github-readme-stats-lockoos-projects.vercel.app/api/top-langs?username=locko2901&langs_count=8&hide_progress=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-lockoos-projects.vercel.app/api/top-langs?username=locko2901&langs_count=8&layout=compact&theme=dracula" />
 </a>
 
 ---
