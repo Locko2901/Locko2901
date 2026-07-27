@@ -35,6 +35,16 @@ Here are the ones I've made public:
 
 ---
 
+### Guides & Fixes
+
+Occasionally I document fixes for weird hardware or software problems I run into.
+
+<a href="https://gist.github.com/Locko2901/6ee540b3ac305ac4c64bf164907e3356">
+  <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/gist?id=6ee540b3ac305ac4c64bf164907e3356&theme=dracula" />
+</a>
+
+---
+
 ## About
 
 - I build **tools, automations, and small technical experiments**, often around APIs or online platforms
