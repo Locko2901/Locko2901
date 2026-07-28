@@ -32,6 +32,9 @@ Here are the ones I've made public:
 <a href="https://github.com/locko2901/webgl-fluid-simulation">
   <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=webgl-fluid-simulation&theme=dracula" />
 </a>
+<a href="https://github.com/locko2901/vane">
+  <img src="https://github-readme-stats-lockoos-projects.vercel.app/api/pin/?username=locko2901&repo=vane&theme=dracula" />
+</a>
 
 ---
 
